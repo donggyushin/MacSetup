@@ -10,7 +10,7 @@ Homebrew installs the stuff you need that Apple (or your Linux system) didn’t.
 ```
 Paste that in a macOS Terminal or Linux shell prompt.
 
-After that copy the two command lines at Next Steps section. 
+After that copy the two command lines at Next Steps section to the shell configuration file(~/.zshrc). 
 <div>
 <img src="https://user-images.githubusercontent.com/34573243/150907647-bcc099ba-11f0-403b-bd00-9e8d7b3f07b9.png" width=400 />
 </div>
