@@ -1,4 +1,4 @@
-[MacSetup](#MacSetup) [Install HomeBrew](#Install-HomeBrew) [Install applications that you want](#Install-applications-that-you-want) [Iterm2 setup](#Iterm2-setup) [For M1 users](#For-M1-users)
+[MacSetup](#MacSetup) | [Install HomeBrew](#Install-HomeBrew) | [Install applications that you want](#Install-applications-that-you-want) | [Iterm2 setup](#Iterm2-setup) | [For M1 users](#For-M1-users)
 
 # MacSetup
 Mac developer setup
