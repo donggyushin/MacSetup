@@ -23,7 +23,7 @@ brew install python3 go pipenv nvm gh
 ```
 After install them follow the next steps(Edit shell configuration file)
 
-  ## NVM
+  ## nvm
   See all node versions
   ```
   nvm ls-remote
@@ -82,7 +82,7 @@ Iterm2 > Preference > Profiles > Session > Check `status bar enabled` > Configur
   then restart your terminal
   
   # For M1 users
-  Install of Rosetta 2
+  Install of Rosetta<br />
   If you want to use M1 Mac without issues related with M1 chip by following the next command.
   ```
   /usr/sbin/softwareupdate --install-rosetta --agree-to-license
