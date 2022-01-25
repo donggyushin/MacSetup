@@ -53,6 +53,15 @@ Iterm2 > Preference > Profiles > Session > Check `status bar enabled` > Configur
   ```
   You can select your scheme at Iterm2 > Preference > Profiles > Colors
   ```
+  ### How to import itermcolors.txt file
+  Delete `.txt` extension from `itermcolors.txt` file like following image
+  
+  <div>
+  <img width="250" alt="스크린샷 2022-01-25 오후 4 58 08" src="https://user-images.githubusercontent.com/34573243/150935352-496b55ec-b927-4ab7-ba62-bef1f6ea38d8.png">
+  </div>
+  
+  And import itermcolors file from Iterm by double click `.itermcolors.txt` file 
+  
   ## Oh-my-zsh
   Install
   ```
