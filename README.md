@@ -70,4 +70,9 @@ Iterm2 > Preference > Profiles > Session > Check `status bar enabled` > Configur
   
   then restart your terminal
   
-  
+  # For M1 users
+  Install of Rosetta 2
+  If you want to use M1 Mac without issues related with M1 chip, follow the next command.
+  ```
+  /usr/sbin/softwareupdate --install-rosetta --agree-to-license
+  ```
